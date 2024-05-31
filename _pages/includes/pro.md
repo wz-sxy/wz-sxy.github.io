@@ -6,7 +6,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.1-2024.4</div><img src='images/voice.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**秒级声音克隆** \\
+**秒级声音克隆** 
 
 [**Project**](http://180.101.72.235:9872/) 
 
@@ -19,7 +19,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022.8-</div><img src='images/grape.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**葡萄产业智慧供应链数字应用平台研发及关键技术研究** \\
+**葡萄产业智慧供应链数字应用平台研发及关键技术研究** 
 
 [**Project**](https://s3.z100.vip:34252/platform/#/home) 
   - 江苏省重点农业科技创新项目，旨在为葡萄产业提供全产业链的数字化应用平台，共7
@@ -30,7 +30,7 @@
 <div class='paper-box'><div class='paper-box-image'><div>2024.5-<div class="badge"></div><img src='images/elec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**电力系统计费控制系统** \\
+**电力系统计费控制系统** 
   - 为陕西宝鸡国钛能源科技有限公司企业项目，旨在为公司用电进行统计与余额
 预警控制，建立Web网站方便员工脱离厂房安全操作电表。
 </div>
