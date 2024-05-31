@@ -6,7 +6,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.1-2024.4</div><img src='images/voice.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**秒级声音克隆** 
+**秒级声音克隆项目** 
 
 [**Project**](http://180.101.72.235:9872/) 
 
