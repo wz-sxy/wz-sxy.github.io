@@ -27,7 +27,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div>2024.5-<div class="badge"></div><img src='images/elec.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.5-</div><img src='images/elec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **电力系统计费控制系统** 
